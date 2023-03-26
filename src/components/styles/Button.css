@@ -1,15 +1,15 @@
 .btn-circular {
 
-    width: 48.75px;
-    height: 48.75px;
+    width: 48px;
+    height: 48px;
     border-radius: 50%;
     box-shadow: 0px 4px 9px rgba(255, 255, 255, 0.25);
     background: url(/src/assets/imgs/Vector.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
-    
     position: relative;
+    z-index: 2;
 }
 
 
